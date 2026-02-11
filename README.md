@@ -1,7 +1,7 @@
 # Sysco Revenue Management — Pricing Analytics Engine
 
 **Built for:** Revenue Management Analyst Interview  
-**Data Source:** Sysco Arkansas Price Sheet (Contract S000000035 / 4600049774 — Statewide Groceries)  
+**Data Source:** Sysco Arkansas Price Sheet (Statewide Groceries)  
 **Analysis Period:** Oct 6, 2025 — Jan 25, 2026 (16 weeks)  
 **Author:** Ayush Bhardwaj
 
